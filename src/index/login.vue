@@ -26,6 +26,12 @@ console.log(count.value)
 console.log(count.value)
 console.log(count.value)
 console.log(count.value)
+console.log(count.value)
+console.log(count.value)
+console.log(count.value)
+console.log(count.value)
+console.log(count.value)
+console.log(count.value)
 
 
 interface rrtt<T>{
