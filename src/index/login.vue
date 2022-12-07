@@ -14,6 +14,10 @@ import { ref,reactive,watch } from 'vue';
 
 const count=ref<number>(99)
 console.log(count)
+console.log(count)
+console.log(count)
+console.log(count)
+console.log(count)
 
 console.log(count.value++)
 console.log(count.value)
