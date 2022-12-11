@@ -37,6 +37,7 @@ console.log(count.value)
 console.log(count.value)
 console.log(count.value)
 console.log(123)
+console.log('我是lgx')
 console.log('我是zyf')
 
 
