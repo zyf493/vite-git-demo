@@ -20,6 +20,10 @@ console.log(count)
 console.log(count)
 
 console.log(count.value++)
+console.log(count.value)e
+console.log(count.value)
+console.log(count.value)
+console.log(count.value)
 console.log(count.value)
 console.log(count.value)
 console.log(count.value)
